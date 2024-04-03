@@ -1,0 +1,42 @@
+
+---Downloaded files---
+The import files for: Cocktail Demo were successfully downloaded!
+Initial max execution time = 300
+Files info:
+Site URL = http://thealibiroom.local
+Data file = /www/kinsta/public/thealibiroom/wp-content/plugins/theme-freesia-demo-import/files/dummy/cocktail/cocktail.wordpress.xml
+Widget file = /www/kinsta/public/thealibiroom/wp-content/plugins/theme-freesia-demo-import/files/dummy/cocktail/cocktail-widgets.wie
+Customizer file = /www/kinsta/public/thealibiroom/wp-content/plugins/theme-freesia-demo-import/files/dummy/cocktail/cocktail-export.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Main Sidebar : 
+
+HTML personalizzato - No Title - Imported
+TF: Popular Posts - No Title - Imported
+Galleria - Image Gallery - Imported
+
+Side Menu : 
+
+TF: Popular Posts - No Title - Imported
+
+Contact Page Sidebar : 
+
+HTML personalizzato - Contact us - Imported
+
+Iframe Code For Google Maps : 
+
+HTML personalizzato - No Title - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+
